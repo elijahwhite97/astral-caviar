@@ -1,1 +1,15 @@
-lorem ipsum dolor sit amet
+<!DOCTYPE html>
+  <head>
+    <title>Hello Git!</title>
+  </head>
+  <body>
+    <h1>Hello Git!</h1>
+    <p>To-do:</p>
+    <ul>
+      <li>Become a Full-Stack Developer</li>
+      <li>Land a nice career</li>
+      <li>Live Forever</li>
+      <li>Keep Learning</li>
+    </ul>
+  </body>
+</html>
